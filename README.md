@@ -1,2 +1,2 @@
-# chess-ai
-training chess ai
+# tictactoe ai
+tictactoe ai
